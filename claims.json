@@ -1283,7 +1283,19 @@
       "responseDate": "2026-10-23",
       "lat": 43.9324162953047,
       "lng": -78.8638983071666
+    },
+    {
+      "id": "2026-55",
+      "register": 2026,
+      "date": "2026-08-05",
+      "lossDate": "2026-07-21",
+      "type": "Pothole",
+      "location": "143/147 Gibbons St (Bicycle Lane)",
+      "status": "In Progress",
+      "responseDate": null,
+      "lat": 43.8980732985913,
+      "lng": -78.880083421867
     }
   ],
-  "updated": "2026-10-26T12:51:41.866Z"
+  "updated": "2026-10-26T18:22:00.756Z"
 }
