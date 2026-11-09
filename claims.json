@@ -1243,8 +1243,8 @@
       "lossDate": "2026-09-23",
       "type": "Vehicle Damage",
       "location": "1659 William Lott Dr",
-      "status": "In Progress",
-      "responseDate": null,
+      "status": "Responded",
+      "responseDate": "2026-11-06",
       "lat": 43.9498637682399,
       "lng": -78.8452202510073
     },
@@ -1291,11 +1291,47 @@
       "lossDate": "2026-07-21",
       "type": "Pothole",
       "location": "143/147 Gibbons St (Bicycle Lane)",
-      "status": "In Progress",
-      "responseDate": null,
+      "status": "Responded",
+      "responseDate": "2026-11-06",
       "lat": 43.8980732985913,
       "lng": -78.880083421867
+    },
+    {
+      "id": "2026-56",
+      "register": 2026,
+      "date": "2026-10-14",
+      "lossDate": "2026-08-03",
+      "type": "Pothole/Bodily Injury",
+      "location": "850 Wilson Rd S",
+      "status": "In Progress",
+      "responseDate": null,
+      "lat": 43.8797438970154,
+      "lng": -78.8340827297606
+    },
+    {
+      "id": "2026-57",
+      "register": 2026,
+      "date": "2026-11-02",
+      "lossDate": "2026-10-15",
+      "type": "Overlay Contract Damage",
+      "location": "927 Traddles Ave",
+      "status": "Responded",
+      "responseDate": "2026-11-02",
+      "lat": 43.9176335059993,
+      "lng": -78.8357286410963
+    },
+    {
+      "id": "2026-58",
+      "register": 2026,
+      "date": "2026-10-24",
+      "lossDate": "2026-09-02",
+      "type": "Flood Damage",
+      "location": "342 Viewmount St",
+      "status": "In Progress",
+      "responseDate": null,
+      "lat": 43.8972282734161,
+      "lng": -78.821609194117
     }
   ],
-  "updated": "2026-10-26T18:22:00.756Z"
+  "updated": "2026-11-09T13:49:20.866Z"
 }
