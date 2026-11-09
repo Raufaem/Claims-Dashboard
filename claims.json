@@ -1244,7 +1244,7 @@
       "type": "Vehicle Damage",
       "location": "1659 William Lott Dr",
       "status": "Responded",
-      "responseDate": "2026-11-06",
+      "responseDate": "2026-11-09",
       "lat": 43.9498637682399,
       "lng": -78.8452202510073
     },
@@ -1255,7 +1255,7 @@
       "lossDate": "2026-09-28",
       "type": "Trip and Fall",
       "location": "41 Bloor St E",
-      "status": "In Progress",
+      "status": "Responded",
       "responseDate": null,
       "lat": 43.880695,
       "lng": -78.8542229379756
@@ -1333,5 +1333,5 @@
       "lng": -78.821609194117
     }
   ],
-  "updated": "2026-11-09T13:49:20.866Z"
+  "updated": "2026-11-09T17:16:12.408Z"
 }
